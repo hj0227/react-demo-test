@@ -1,0 +1,48 @@
+.pageView{
+	margin: 160px auto;
+	width: 80%;
+	background-color: #eee;
+	padding: 30px;
+	border-radius: 10px;
+}
+.equal{
+	margin: 0 90px;
+	font-weight:bold;
+    color: white;
+    background-color: #9c9797;
+	text-align: center;
+	margin-top:10px;
+	padding: 10px;
+}
+.checkedIcon{
+	color: #f6f0f0;
+    background-color: #df4c4c;
+}
+.mt-100{
+	margin-top: 60px;
+}
+.pageContainer{
+	display: flex;
+	display: -webkit-flex; /* Safari */
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+}
+.flex1{
+	flex: 1;
+	text-align: center;
+}
+.flex2{
+	flex: 2;
+}
+.result{
+	color: red;
+	font-weight:bold;
+	font-size: 32px;
+}
+.routerBtn{
+	background-color: #c8ee24;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #683737;
+}
